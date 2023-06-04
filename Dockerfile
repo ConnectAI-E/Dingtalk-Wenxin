@@ -1,4 +1,4 @@
-FROM golang:1.18.10-alpine3.16 AS builder
+FROM golang:1.19.8-alpine3.16 AS builder
 
 # ENV GOPROXY      https://goproxy.io
 
